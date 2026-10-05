@@ -1,9 +1,9 @@
 cask "swep" do
   arch arm: "aarch64", intel: "x64"
 
-  version "0.2.3"
-  sha256 arm:   "0d004d3f5973d3b079f130a2ed88f36d1e0535971bbcb981053deecdb0925e80",
-         intel: "c9f13b08eb6b11255a1059dcbb2e605748f4f8cffc808d221e285bcdc491cd3b"
+  version "0.2.4"
+  sha256 arm:   "5b661c592afd67a4e432c09cb28e0a99689b1144fa7fbaff48089519d8c51d72",
+         intel: "cb0bc0413c14350164bd76d7fbc88689d2f98a0cc41c30c4c0ac582337ab7592"
 
   url "https://github.com/JKS-sys/swep-releases-30-sep-2026/releases/download/v#{version}/Swep_#{version}_#{arch}.dmg"
   name "Swep"

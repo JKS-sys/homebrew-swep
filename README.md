@@ -1,6 +1,5 @@
 # Swep for Homebrew
 
-    brew install --cask jks-sys/swep/swep   # the app
-    brew install jks-sys/swep/sp            # the sp command
+    brew install --cask jks-sys/swep/swep
 
-One command each; Homebrew adds this repository by itself. Swep: https://ipconfig.co.network/swep
+One command; Homebrew adds this repository by itself. The sp command comes with the app (Swep Pro). Swep: https://ipconfig.co.network/swep
